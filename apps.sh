@@ -79,7 +79,7 @@ apt update -y
 echo ""
 echo "NEXT, LET ME INSTALL YOUR DEFAULT SET OF APPLICATIONS"
 echo ""
-apt install -y neofetch lolcat shotcut simplescreenrecorder steam corectrl wine winetricks plank timeshift mousepad protontricks peek thonny sysprof htop btop glances vlc flatpak gnome-software gufw rkhunter lynis ranger tldr
+apt install -y neofetch lolcat shotcut simplescreenrecorder steam wine winetricks plank timeshift mousepad protontricks peek thonny sysprof htop btop glances vlc flatpak gnome-software gufw rkhunter lynis ranger tldr
 echo ""
 echo "ALL APPLICATIONS INSTALLED!"
 sleep 3
